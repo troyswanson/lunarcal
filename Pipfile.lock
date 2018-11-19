@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "86a99d106e6e30f28546e51de9f2bc02e0025bb343f537a76b4a36b253483caf"
+            "sha256": "b319a32cf4e86a0698c6a0fa3521e6b80000147514475260bbc63c5c82c0e645"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -23,6 +23,13 @@
             ],
             "version": "==7.0"
         },
+        "emoji": {
+            "hashes": [
+                "sha256:001b92b9c8a157e1ca49187745fa450513bc8b31c87328dfd83d674b9d7dfa63"
+            ],
+            "index": "pypi",
+            "version": "==0.5"
+        },
         "flask": {
             "hashes": [
                 "sha256:7fab1062d11dd0038434e790d18c5b9133fd9e6b7257d707c4578ccc1e38b67c",
@@ -30,6 +37,14 @@
             ],
             "index": "pypi",
             "version": "==1.0"
+        },
+        "gunicorn": {
+            "hashes": [
+                "sha256:aa8e0b40b4157b36a5df5e599f45c9c76d6af43845ba3b3b0efe2c70473c2471",
+                "sha256:fa2662097c66f920f53f70621c6c58ca4a3c4d3434205e608e121b5b3b71f4f3"
+            ],
+            "index": "pypi",
+            "version": "==19.9"
         },
         "icalendar": {
             "hashes": [

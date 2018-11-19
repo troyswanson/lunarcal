@@ -7,6 +7,8 @@ name = "pypi"
 flask = "==1.0"
 icalendar = "==4.0"
 skyfield = "==1.9"
+emoji = "==0.5"
+gunicorn = "==19.9"
 
 [dev-packages]
 
