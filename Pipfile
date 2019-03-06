@@ -6,11 +6,12 @@ name = "pypi"
 [packages]
 flask = "==1.0"
 icalendar = "==4.0"
-skyfield = "==1.9"
+skyfield = "==1.10"
 emoji = "==0.5"
 gunicorn = "==19.9"
 
 [dev-packages]
+pylint = "*"
 
 [requires]
 python_version = "3.7"
